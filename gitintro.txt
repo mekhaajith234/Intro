@@ -1,0 +1,7 @@
+welcome all
+commit
+push
+pull
+
+
+thank u all
