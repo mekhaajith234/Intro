@@ -1,6 +1,6 @@
 welcome all
 commit keyword is used for saving changes and updates
-push
+push used to update remote repository with local commits  
 pull
 
 
