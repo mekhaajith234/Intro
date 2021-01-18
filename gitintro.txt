@@ -1,5 +1,5 @@
 welcome all
-commit
+commit keyword is used for saving changes and updates
 push
 pull
 
