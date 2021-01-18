@@ -1,7 +1,7 @@
 welcome all
 commit keyword is used for saving changes and updates
 push used to update remote repository with local commits  
-pull
+pull is used to merge elements from 1 branch to another
 
 
 thank u all
